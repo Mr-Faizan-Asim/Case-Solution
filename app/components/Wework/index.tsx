@@ -22,6 +22,17 @@ const postData: DataType[] = [
         name: 'Abdur Rehman Kazim',
         imgSrc: '/images/wework/ab.jpg',
     }
+    ,
+    {
+        profession: 'AMC-25',
+        name: 'Sharjeel Khalid',
+        imgSrc: '/images/un.jpg',
+    },
+    {
+        profession: 'Nephorolgist',
+        name: 'Dr. Fowad Shahzad',
+        imgSrc: '/images/Fawad.jpg',
+    }
 ]
 
 // CAROUSEL SETTINGS
